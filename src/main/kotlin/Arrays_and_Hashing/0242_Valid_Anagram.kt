@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0242 {
     fun isAnagram(s: String, t: String): Boolean {
         val dict = mutableMapOf<String, Int>();

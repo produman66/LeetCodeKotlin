@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class NumArray(nums: IntArray) {
     val summ = mutableListOf<Int>()
     var sum = 0
@@ -21,7 +23,7 @@ class NumArray(nums: IntArray) {
 }
 
 /**
- * Your NumArray object will be instantiated and called as such:
- * var obj = NumArray(nums)
+ * Your Arrays_and_Hashing.NumArray object will be instantiated and called as such:
+ * var obj = Arrays_and_Hashing.NumArray(nums)
  * var param_1 = obj.sumRange(left,right)
  */

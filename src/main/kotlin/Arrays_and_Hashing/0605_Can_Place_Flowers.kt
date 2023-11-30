@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0605 {
     fun canPlaceFlowers(flowerbed: IntArray, n: Int): Boolean {
         if (flowerbed.size == 1 || n == 0){

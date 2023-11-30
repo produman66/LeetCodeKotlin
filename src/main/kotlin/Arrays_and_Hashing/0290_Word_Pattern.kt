@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0290 {
     fun wordPattern(pattern: String, s: String): Boolean {
         var count = s.split(" ")

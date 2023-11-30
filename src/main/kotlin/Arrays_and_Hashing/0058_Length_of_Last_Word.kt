@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0058 {
     fun lengthOfLastWord(s: String): Int {
 

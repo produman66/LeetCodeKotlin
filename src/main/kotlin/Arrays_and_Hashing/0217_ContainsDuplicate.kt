@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution {
     fun containsDuplicate(nums: IntArray): Boolean {
         val hashSet: HashSet<Int> = HashSet()

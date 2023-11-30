@@ -1,4 +1,4 @@
-
+package Arrays_and_Hashing
 class Solution392 {
     fun isSubsequence(s: String, t: String): Boolean {
         if (s.length == 0){

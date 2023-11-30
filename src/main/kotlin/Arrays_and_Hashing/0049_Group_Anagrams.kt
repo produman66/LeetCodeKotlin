@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0049 {
     fun groupAnagrams(strs: Array<String>): List<List<String>> {
         val mapp = mutableMapOf<String, MutableList<String>>()

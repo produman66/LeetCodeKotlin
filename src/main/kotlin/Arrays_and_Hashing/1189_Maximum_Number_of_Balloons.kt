@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution1189 {
     fun maxNumberOfBalloons(text: String): Int {
 

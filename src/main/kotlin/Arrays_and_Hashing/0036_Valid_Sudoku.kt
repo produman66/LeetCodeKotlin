@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0036 {
     fun isValidSudoku(board: Array<CharArray>): Boolean {
         for (i in 0 until board.size){

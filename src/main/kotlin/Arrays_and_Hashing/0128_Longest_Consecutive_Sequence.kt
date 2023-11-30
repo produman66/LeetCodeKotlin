@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 import java.lang.Integer.max
 import java.util.*
 

@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0912 {
     fun sortArray(nums: IntArray): IntArray {
         mergeSort(nums, 0, nums.size-1)

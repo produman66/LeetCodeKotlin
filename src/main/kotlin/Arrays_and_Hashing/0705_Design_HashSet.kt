@@ -1,10 +1,12 @@
+package Arrays_and_Hashing
+
 class MyHashSet() {
 
     class ListNode(val `val`: Int?){
         var next: ListNode? = null
     }
 
-    val set = Array(100000){ListNode(null)}
+    val set = Array(100000){ ListNode(null) }
 
     fun add(key: Int) {
         var cur = set[code(key)]
@@ -49,8 +51,8 @@ class MyHashSet() {
 }
 
 /**
- * Your MyHashSet object will be instantiated and called as such:
- * var obj = MyHashSet()
+ * Your Arrays_and_Hashing.MyHashSet object will be instantiated and called as such:
+ * var obj = Arrays_and_Hashing.MyHashSet()
  * obj.add(key)
  * obj.remove(key)
  * var param_3 = obj.contains(key)

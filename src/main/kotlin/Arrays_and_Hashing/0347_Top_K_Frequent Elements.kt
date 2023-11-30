@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0347 {
     fun topKFrequent(nums: IntArray, k: Int): IntArray {
         val ans = IntArray(k)

@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0075 {
     fun sortColors(nums: IntArray): Unit {
         val size = nums.size

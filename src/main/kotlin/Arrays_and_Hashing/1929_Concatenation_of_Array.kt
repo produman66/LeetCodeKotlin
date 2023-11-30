@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution1929 {
     fun getConcatenation(nums: IntArray): IntArray {
 

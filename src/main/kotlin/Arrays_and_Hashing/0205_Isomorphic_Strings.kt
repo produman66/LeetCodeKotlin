@@ -1,3 +1,5 @@
+package Arrays_and_Hashing
+
 class Solution0205 {
     fun isIsomorphic(s: String, t: String): Boolean {
 
