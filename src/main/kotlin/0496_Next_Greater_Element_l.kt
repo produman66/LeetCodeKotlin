@@ -1,5 +1,3 @@
-package Arrays_and_Hashing
-
 class Solution0496 {
     fun nextGreaterElement(nums1: IntArray, nums2: IntArray): IntArray {
 

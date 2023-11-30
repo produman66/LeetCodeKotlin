@@ -1,5 +1,3 @@
-package Arrays_and_Hashing
-
 class Solution0001 {
     fun twoSum(nums: IntArray, target: Int): IntArray {
         val ans = mutableListOf<Int>()

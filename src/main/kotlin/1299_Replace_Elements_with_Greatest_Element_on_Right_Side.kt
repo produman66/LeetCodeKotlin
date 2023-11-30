@@ -1,5 +1,3 @@
-package Arrays_and_Hashing
-
 class Solution1299 {
 
     // 18 6  6  6  1  -1 ans

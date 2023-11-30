@@ -1,5 +1,3 @@
-package Arrays_and_Hashing
-
 class Solution0169 {
     fun majorityElement(nums: IntArray): Int {
         val map = mutableMapOf<Int, Int>()
