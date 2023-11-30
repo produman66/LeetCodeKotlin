@@ -1,5 +1,3 @@
-package Arrays_and_Hashing
-
 class Solution0724 {
     fun pivotIndex(nums: IntArray): Int {
 

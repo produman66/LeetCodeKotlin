@@ -1,5 +1,3 @@
-package Arrays_and_Hashing
-
 class Solution2215 {
     fun findDifference(nums1: IntArray, nums2: IntArray): List<List<Int>> {
         var set1 = mutableSetOf<Int>()

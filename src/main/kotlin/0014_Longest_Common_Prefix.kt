@@ -1,5 +1,3 @@
-package Arrays_and_Hashing
-
 class Solution0014 {
     fun longestCommonPrefix(strs: Array<String>): String {
         var res = StringBuilder()
